@@ -4,7 +4,7 @@ email:       andric@nuisance.co
 author:      Andric Tham
 description: "Curious about the world. I’m a digital designer who writes about culture and technology."
 baseurl:     ""
-url:         "http://andrictham.github.io"
+url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -36,16 +36,16 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: andrictham
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: astralwave
 skype_username:
 steam_nickname:
 google_plus_id:
 linkedin_username:
 angellist_username:
-medium_id:
+medium_id: andric
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -53,15 +53,15 @@ flattr_button:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 text:
   pagination:
