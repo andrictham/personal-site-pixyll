@@ -11,6 +11,8 @@ The myth that speed leads to better results in digital product creation is one t
 
 ![Pivot-Tom-Fishburne-Marketoonist.jpg](/uploads/Pivot-Tom-Fishburne-Marketoonist.jpg)
 
+## You can only go faster if you’re in the driver’s seat
+
 While shortening the feedback loop, in an ideal world, helps combat scope creep and endless internal iteration without reality checks, the truth is that the gospel of speed will eventually lead the organization down the rabbit hole that results in **expedience**: which is, choosing the hastiest way of doing something.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe>
