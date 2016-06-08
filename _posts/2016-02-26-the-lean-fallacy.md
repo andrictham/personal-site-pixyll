@@ -11,6 +11,8 @@ The myth that speed leads to better results in digital product creation is one t
 
 ![Pivot-Tom-Fishburne-Marketoonist.jpg](/uploads/Pivot-Tom-Fishburne-Marketoonist.jpg)
 
+It’s 2016, and we live in a time where (unfortunately), the proportion of tech leaders who know how to code to tech leaders who don’t are dwindling. This means that if we heed the Silicon Valley gospel of “move fast and break things”, we’re destined to fail.
+
 ## You can only go faster if you’re in the driver’s seat
 
 While shortening the feedback loop, in an ideal world, helps combat scope creep and endless internal iteration without reality checks, the truth is that the gospel of speed will eventually lead the organization down the rabbit hole that results in **expedience**: which is, choosing the hastiest way of doing something.
