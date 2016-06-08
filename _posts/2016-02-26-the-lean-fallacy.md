@@ -19,6 +19,6 @@ Mostly, it slows you down when you do things that don't result in any learning, 
 
 This is the chief reason why lean startups with a sales-based CEO and an “agile” entry-level dev team crash and burn before they can scale, and is the opposite of the Analysis Paralysis effect, which the Lean movement was trying to combat.
 
-In summary, while I don’t think that the Lean movement is without merit,  the number of teams it’ll actually help is far less than you’d think, and unless you have complete autonomy over both your business and your product, it’s wiser to go with our old friend, Waterfall. 
+In summary, while I don’t think that the Lean movement is without merit,  the number of teams it’ll actually help is far less than you’d think, and unless you have complete autonomy *and* mastery over both your business and your product, it’s wiser to go with our old friend, Waterfall. 
 
 With a battle-tested external team and lots and lots of testing, you can go very far. If you can’t integrate tech and business very well (i.e., you’re a business owner who doesn’t know how to code), you’d be wise to separate church and state and play to your strengths. Whatever you do, remember this: do not micromanage.
