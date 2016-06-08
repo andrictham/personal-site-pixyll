@@ -13,7 +13,7 @@ While shortening the feedback loop, in an ideal world, helps combat scope creep 
 
 I think it’s wise to think a little deeper. Not simply adopting the latest way of doing things, but understanding why. The *why* behind the Lean movement is one of learning. When you have an early product and a really small team of smart people, early and frequent releases can boost your learning.
 
-The truth is that if your team doesn’t consist solely of people who can both build products very, very well and also understand the human and business contexts behind the “metrics” you receive, trying to shorten your release cycles merely slow you down.
+The truth is that if your team doesn’t consist solely of people who can both build products very well and also understand the human and business contexts behind the “metrics” you receive, trying to shorten your release cycles merely slows you down.
 
 Mostly, it slows you down when you do things that don't result in any learning, and then you have to circle back to fix the debt you racked up.
 
