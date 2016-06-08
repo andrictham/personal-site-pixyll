@@ -29,7 +29,7 @@ Either that, or you crash. *Oops*. Like this scene from *Silicon Valley* where G
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="text-align:center;" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe>
 
 ---
 
