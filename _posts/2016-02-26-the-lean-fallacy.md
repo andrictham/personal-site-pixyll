@@ -17,15 +17,17 @@ It’s 2016, and we live in a time where (unfortunately), the proportion of tech
 
 While shortening the feedback loop, in an ideal world, helps combat scope creep and endless internal iteration without reality checks, the truth is that the gospel of speed will eventually lead the organization down the rabbit hole that results in **expedience**: which is, choosing the hastiest way of doing something.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe>
-
 I think it’s wise to think a little deeper. Not simply adopting the latest way of doing things, but understanding why. The *why* behind the Lean movement is one of learning. When you have an early product and a really small team of smart people, early and frequent releases can boost your learning.
 
 > Lean is about learning when the cost is low. When you aren’t a technically-skilled person, you have to hire other people to do it. Hiring is expensive.
 
-The truth is that if your team doesn’t consist solely of people who can both build products very well and also understand the human and business contexts behind the “metrics” you receive, trying to shorten your release cycles merely slows you down.
+The truth is that if your team doesn’t consist solely of people who can both build products very well and also understand the human and business contexts behind the “metrics” you receive, trying to shorten your release cycles merely slows you down in the long run.
 
 Mostly, it slows you down when you do things that don't result in any learning, and then you have to circle back to fix the debt you racked up.
+
+Either that, or you crash. *Oops*. Like this scene from *Silicon Valley* where Gavin Belson announces the failure of his tech team (and tries to blame it on them). Dear non-technical CEO, this is how you look when your products fail.
+
+<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe> <br />
 
 This is the chief reason why lean startups with a sales-based CEO and an “agile” entry-level dev team crash and burn before they can scale, and is the opposite of the Analysis Paralysis effect, which the Lean movement was trying to combat.
 
