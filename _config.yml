@@ -12,8 +12,8 @@ email: andric@nuisance.co
 author: Andric Tham
 description: Curious about the world. I’m a digital designer who writes about culture
   and technology.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 date_format: "%b %-d, %Y"
 google_verification: 
 google_analytics: 
