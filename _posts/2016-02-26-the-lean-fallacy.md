@@ -27,7 +27,11 @@ Mostly, it slows you down when you do things that don't result in any learning, 
 
 Either that, or you crash. *Oops*. Like this scene from *Silicon Valley* where Gavin Belson announces the failure of his tech team (and tries to blame it on them). Dear non-technical CEO, this is how you look when your products fail.
 
-<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe> <br />
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjo_m0u7d_E" frameborder="0" allowfullscreen></iframe>
+
+---
 
 This is the chief reason why lean startups with a sales-based CEO and an “agile” entry-level dev team crash and burn before they can scale, and is the opposite of the Analysis Paralysis effect, which the Lean movement was trying to combat.
 
