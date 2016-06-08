@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Who’s Andric?
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 

@@ -1,7 +1,10 @@
 ---
+title: Expedience
+date: 2016-02-26 00:00:00 Z
+tags:
+- thoughts
+- startups
 layout: post
-title: "Expedience"
-tags: thoughts startups
 ---
 
 Speed != Expedience. I don't understand how so many entrepreneurs here think doing things expediently will speed things up.
